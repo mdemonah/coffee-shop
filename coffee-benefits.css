@@ -1,0 +1,101 @@
+*{
+  margin:0;
+  padding:0;
+}
+#header{
+	height:400px;
+	width:100%;
+	background-image:url(photo/best-coffee-beans-luxe-digital1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+#content{
+	width:100%;
+	height:400px;
+	font-weight:bold;
+	padding:20px;
+}
+.left img{
+	float:left;
+	width:500px;
+	height:400px;
+	padding-right:20px;
+} 
+.left h2{
+	text-align:center;
+	padding-top:30px;
+	color:red;
+}
+.left p{
+    line-height:30px;
+	padding:20px 20px;
+	color:blue;
+}
+#content2{
+	width:100%;
+	height:400px;
+	font-weight:bold;
+	background:#ffbf00;
+}
+.right img{
+	float:right;
+	width:500px;
+	height:400px;
+} 
+.right h2{
+	text-align:center;
+	padding-top:30px;
+	color:blue;
+}
+.right p{
+    line-height:30px;
+	padding:30px 10px;
+	color:	red;
+	text-align:center;
+	margin-top:10px;
+}
+#content3{
+	width:100%;
+	height:400px;
+	font-weight:bold;
+	padding:20px;
+	background:#ccfff2;
+}
+.left2 img{
+	float:left;
+	width:500px;
+	height:400px;
+	padding-right:20px;
+}
+.left2 h2{
+	text-align:center;
+	padding-top:30px;
+	color:blue;
+} 
+.left2 p{
+    line-height:30px;
+	padding:20px 20px;
+	color:	red;
+}
+#content4{
+	width:100%;
+	height:400px;
+	font-weight:bold;
+	background:black;
+}
+.right2 img{
+	float:right;
+	width:500px;
+	height:400px;
+}
+.right2 h2{
+	text-align:center;
+	padding-top:30px;
+	color:red;
+}  
+.right2 p{
+    line-height:30px;
+	padding:20px 20px;
+	color:blue;
+}

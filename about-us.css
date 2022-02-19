@@ -1,0 +1,101 @@
+*{
+  margin:0;
+  padding:0;
+}
+#header{
+	height:400px;
+	width:100%;
+	background-image:url(photo/coffee-seeds.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+#headerx{
+	height:250px;
+	width:100%;
+	background:#fff;
+}
+#headerx h2{
+	text-align:center;
+	padding-top:10px;
+}
+#headerx h1{
+	text-align:center;
+}
+#headerx img{
+	height:150px;
+	width:150px;
+	padding-left:43%;
+}
+#content{
+	width:100%;
+	height:400px;
+	font-weight:bold;
+	padding:20px;
+}
+.left img{
+	float:left;
+	height:400px;
+	padding-right:20px;
+} 
+.left p{
+    line-height:30px;
+	padding:20px 20px;
+	color:	#333;
+}
+#content2{
+	width:100%;
+	height:400px;
+	font-weight:bold;
+	background:#ffbf00;
+}
+.right img{
+	float:right;
+	height:400px;
+} 
+.right h2{
+	text-align:center;
+	padding-top:30px;
+}
+.right p{
+    line-height:30px;
+	padding:30px 10px;
+	color:	#333;
+	text-align:center;
+	margin-top:10px;
+}
+#content3{
+	width:100%;
+	height:400px;
+	font-weight:bold;
+	padding:20px;
+}
+.left2 img{
+	float:left;
+	height:400px;
+	padding-right:20px;
+}
+.left2 h2{
+	text-align:center;
+	padding-top:30px;
+} 
+.left2 p{
+    line-height:30px;
+	padding:20px 20px;
+	color:	#333;
+}
+#content4{
+	width:100%;
+	height:400px;
+	font-weight:bold;
+	background:#ffbf00;
+}
+.right2 img{
+	float:right;
+	height:400px;
+} 
+.right2 p{
+    line-height:30px;
+	padding:20px 20px;
+	color:	#333;
+}
